@@ -4,6 +4,16 @@
 ##### Wykład Miesiąca to dzielenie się wiedzą praktyków IT z młodymi programistami. W ramach projektu odbywają się cykliczne wykłady online z języka python.
 ##### Prowadzący: Robert Urbaniak
 
+## Zasady:
+1. Nie próbuj psuć innym pracy
+2. To Ty mergujesz swoje zadanie JEŚLI zostanie ono zaakceptowane
+3. Masz pełne prawo uczyć się na podstawie innych osób więc nie wstydź się podglądać innych rozwiązań!
+4. Ale nie kopiuj. W najgorszym razie przepisz ze zrozumieniem.
+5. Przez "zrozumienie" mam na myśli opisanie KAŻDEJ LINIJKI komentarzem tak abyś pokazał co się dzieje w tym kodzie :)
+6. Każde zadanie musi zostać oddane w postaci PR - Pull request
+7. Masz pełne prawo zadawać pytania "Dlaczego tak?", "Po co?", "Jaki to ma cel?" do moich komentarzy odnośnie Twojego zadania
+8. A nawet obowiązek :)
+
 ## Aby stać się kursantem:
 1. Pobierz repo za pomocą komendy `git clone https://github.com/urbrob/wyklad-miesiaca.git`
 2. Stwórzy własny branch `git checkout -b student/<imie>-<nazwisko>`
