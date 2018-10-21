@@ -36,4 +36,5 @@
 7. Wejdź do repo (tu jesteś)
 8. Przjedź do zakładki `Pull requests` -> `New pull request`
 9. Wybierz swoją branch, która ma zostać zmergowana, dodaj opis, tytuł i jeśli wszystko gotowe to daj mnie do `Reviewers`
-10. Czekaj na werdykt :)
+10. Dodaj screeny na, których pokazujesz rozwiązanie problemu (Bardzo mi to ułatwi sprawdzanie)
+11. Czekaj na werdykt :)
