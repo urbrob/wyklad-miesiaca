@@ -16,6 +16,7 @@
 9. A nawet obowiązek :)
 
 ## Aby stać się kursantem:
+0. Zrób Fork repo. Prawy górny róg "Fork"
 1. Pobierz repo za pomocą komendy `git clone https://github.com/urbrob/wyklad-miesiaca.git`
 2. Stwórzy własny branch `git checkout -b student/<imie>-<nazwisko>`
 3. Dodaj folder o następującej nazwie `<imie>-<nazwisko>` do folderu wyklad-miesiaca
